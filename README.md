@@ -1,4 +1,4 @@
-# 💹 BNB Chain Trading Bot ( can support any EVM chains )
+# 💹 BNB Chain Trading Bot ( support all EVM chains )
 **Professional Sniper, Bundler & Volume Automation for PancakeSwap and Four.meme**
 
 A high-performance trading bot infrastructure built for the **BNB Smart Chain**, offering automated token deployment, liquidity pool creation, and advanced trading strategies. Designed with precision, speed, and enterprise-grade reliability — ideal for developers, traders, and liquidity engineers.
@@ -142,7 +142,7 @@ All steps are bundled atomically to ensure consistency, front-run protection, an
 ## 🧑‍💻 Development Setup
 
 ```bash
-git clone https://github.com/0xopsdev/bnb-chain-trading-bot.git
+git clone https://github.com/solzarr/evm-bnb-sniper-bundler-volume-bot
 cd bnb-chain-trading-bot
 npm install
 cp .env.example .env
