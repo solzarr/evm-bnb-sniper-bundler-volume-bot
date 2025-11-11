@@ -177,4 +177,10 @@ Use at your own risk. The maintainers assume no responsibility for financial los
 - Randomizing trading frequency (Buy/Sell)
 - Randomizing the pool
 
+# 👨‍💻 Author
+### 📞 Telegram: [solzarr](https://t.me/solzarr)   
+https://t.me/solzarr
+
+**Built for performance. Secured for production. Optimized for BNB Smart Chain.**
+
 **Built for performance. Secured for production. Optimized for BNB Smart Chain.**
