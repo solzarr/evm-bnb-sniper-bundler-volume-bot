@@ -183,4 +183,3 @@ https://t.me/solzarr
 
 **Built for performance. Secured for production. Optimized for BNB Smart Chain.**
 
-**Built for performance. Secured for production. Optimized for BNB Smart Chain.**
